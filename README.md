@@ -13,7 +13,7 @@ Screenshots
 How to use
 ---
 
-This app is developped in [Python2.7](https://www.python.orAg/download/releases/2.7/).
+This app is developped in [Python2.7](https://www.python.org/download/releases/2.7/).
 It uses [Pyside2-5.11](http://download.qt.io/snapshots/ci/pyside/5.11/latest/pyside2/) to create GUI.
 ([Pyside2 installation guide](https://wiki.qt.io/Qt_for_Python/GettingStarted))
 
